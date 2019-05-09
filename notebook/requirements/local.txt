@@ -1,4 +1,4 @@
-elasticsearch-dsl>=6.0.0,<7.0.0
+elasticsearch-dsl==7.0.0
 pandas==0.24.2
 matplotlib==3.0.3
 jupyterthemes
