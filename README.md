@@ -55,7 +55,7 @@ Por defecto este stack expone los siguientes puertos:
 * 9300: Elasticsearch TCP transport
 * 5601: Kibana UI.
 
-Puede probar a ineyectar un archivo de log en Logstash usando el comando.
+Puede probar a inyectar un archivo de log en Logstash usando el comando.
 
 ```console
 $ nc localhost 5000 < /path/to/logfile.log
