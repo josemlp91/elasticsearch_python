@@ -44,7 +44,7 @@ $ docker-compose up
 
 La primera vez se  descargan todas las imágenes y dependencias externas de internet, puede tardar un poco, por favor no te desesperes.
 
-Despues de unos segundos iniciando, puedes acceder a Kibana web UI [http://localhost:5601](http://localhost:5601) con tu navegador web. Para ver nuestros maravillosos ejemplos en Python podemos acceder a la url http://localhost:8888](http://localhost:8888).
+Despues de unos segundos iniciando, puedes acceder a Kibana web UI [http://localhost:5601](http://localhost:5601) con tu navegador web. Para ver nuestros maravillosos ejemplos en Python podemos acceder a la url [http://localhost:8888](http://localhost:8888).
 
 Por defecto este stack expone los siguientes puertos:
 
